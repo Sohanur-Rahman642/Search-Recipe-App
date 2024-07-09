@@ -21,4 +21,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "Search Recipe App"
 include(":app")
- 
+include(":common")
+include(":mediaPlayer")
+include(":feature:search")
+include(":feature:search:ui")
+include(":feature:search:doman")
+include(":feature:search:data")
